@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/final-project-react-course/static/css/main.c5ff0088.css",
+    "main.js": "/final-project-react-course/static/js/main.8a605323.js",
+    "static/js/787.ccb6f269.chunk.js": "/final-project-react-course/static/js/787.ccb6f269.chunk.js",
+    "static/media/link.jpg": "/final-project-react-course/static/media/link.f393b12f7dcc37be3b04.jpg",
+    "static/media/oops.png": "/final-project-react-course/static/media/oops.9ecb2fbc6f19f93a5114.png",
+    "index.html": "/final-project-react-course/index.html",
+    "main.c5ff0088.css.map": "/final-project-react-course/static/css/main.c5ff0088.css.map",
+    "main.8a605323.js.map": "/final-project-react-course/static/js/main.8a605323.js.map",
+    "787.ccb6f269.chunk.js.map": "/final-project-react-course/static/js/787.ccb6f269.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5ff0088.css",
+    "static/js/main.8a605323.js"
+  ]
+}
