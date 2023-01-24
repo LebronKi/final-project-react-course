@@ -1,0 +1,25 @@
+.pages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.page, .current__page {
+  width: 32px;
+  height: 32px;
+  color: #fff;
+  margin-right: 5px;
+  cursor: pointer;
+  font-size: 20px;
+  text-align: center;
+}
+.main__title {
+  color: #fff;
+  margin-top: 20px;
+}
+.main__title span{
+  color: blue;
+  font-style: italic;
+  font-size: 20px;
+}

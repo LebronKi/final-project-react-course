@@ -1,0 +1,29 @@
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.search {
+  max-width: 475px;
+}
+
+.form-select,
+.form-control {
+  border-radius: 0.375rem;
+}
+
+@media (max-width: 500px) {
+  .search__input {
+    width: 20%;
+  }
+}
+

@@ -1,0 +1,19 @@
+.itemCard {
+    padding: 5px 0;
+    max-width: 715px;
+    color:#fff;
+}
+
+.footer .item{
+    display: flex;
+    align-items: center;
+    margin-right: 16px;
+}
+
+@media (max-width: 768px) {
+    .item-card {
+        padding: 24px 8px;
+        border-bottom: 1px solid #ec9750;
+        width: calc(100% - 48px);
+    }
+}
